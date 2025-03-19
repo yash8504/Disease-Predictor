@@ -18,7 +18,7 @@ This project is a **Disease Prediction Website** powered by **Machine Learning**
 - **Backend**: Python (Flask/Django for API handling)
 - **Machine Learning**: Jupyter Notebook, Scikit-Learn, Pandas, NumPy
 - **Database**: SQLite/MySQL (if storing user data)
-- **Deployment**: Flask/Django, Docker, AWS/Heroku (if deployed)
+- **Deployment**: Flask/Django, Docker, AWS/Heroku 
 
 ## How It Works
 
